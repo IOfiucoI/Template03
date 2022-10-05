@@ -1,0 +1,20 @@
+git init - Se inializa el repositorio
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/IOfiucoI/Template03.git
+git push -u origin main
+
+
+git status - Verifica cambios
+git config --global user.name "Marco"
+git config --global user.email "marco_rg@msn.com"
+git commit -m "Inicio de repositorio"
+git diff DETECTA DIFERENCIAS
+git log LISTA DE VERSIONES
+git checkout --. RECUPERA ARCHIVOS EN COMMIT
+git checkout --index.html ARCHIVO ESPECIFICO
+git remote add origin URL DE REPOSITORIO
+git pull Actualiza el repositorio local (Download)
+git push -u origin master ACTUALIZA REPOSITORIO REMOTO (UPDATE) 
+git clone (URL para copiar repositorio o por ZIP)
