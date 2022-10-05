@@ -18,3 +18,5 @@ git remote add origin URL DE REPOSITORIO
 git pull Actualiza el repositorio local (Download)
 git push -u origin master ACTUALIZA REPOSITORIO REMOTO (UPDATE) 
 git clone (URL para copiar repositorio o por ZIP)
+
+cambio
