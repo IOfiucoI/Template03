@@ -71,3 +71,11 @@ img{
     margin-top: 5rem;
 }
 
+.header{
+min-height: 60rem;
+background-image: url(../img/slide.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+}
